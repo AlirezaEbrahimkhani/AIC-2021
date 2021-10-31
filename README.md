@@ -1,3 +1,12 @@
+# Sharif AI Challenge 2021
+Team Members : 
+1. Alireza Ebrahimkhani
+2. Moein HalvaE
+3. Farbod Ahmadian
+
+# Result
+Stand in 20th place
+
 # AIC-2021
 All things for AIC 2021
 - [x] signup AIC
